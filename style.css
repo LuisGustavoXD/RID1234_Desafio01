@@ -1,0 +1,120 @@
+#backgraud{
+
+}
+  
+#paragrafo1{
+    position: absolute;
+    top: 280px;
+    color: white;
+    font-size: 20px;
+  }
+
+  #paragrafo2{
+    position: absolute;
+    top: 170px;
+    color: white;
+    font-size: 60px;
+  }
+
+#paragrafo3{
+    font-weight: bolder;
+font-size: 30px;
+margin-top: 70px;
+margin-bottom: auto;
+margin-left: 100px;
+}
+
+#paragrafo4{
+font-size: 20px;
+margin-top: 1px;
+margin-left: 100px;
+}
+
+#paragrafo5{
+    font-weight: bolder;
+    margin-left: 450px;
+    position: absolute;
+    top: 530px;
+    font-size: 30px;
+  }
+
+  #paragrafo6{
+  margin-left: 450px;
+position: absolute;
+top: 590px;  
+font-size: 20px;
+}
+
+#paragrafo7{
+  margin-left: 820px;
+  position: absolute;
+  top: 570px;  
+  font-size: 20px;
+}
+
+#paragrafo8{
+  margin-left: 820px;
+  position: absolute;
+  top: 559px;  
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+#imagen{
+margin-left: 930px;
+}
+
+#paragrafo9{
+position: absolute;
+top: 900px;
+}
+
+#paragrafo10
+{
+  position: absolute;
+top: 980px;
+}
+
+#fundo{
+  margin-top: 50px;
+}
+
+
+
+#texte{
+position: absolute;
+top: 1300px;
+left: 488px;
+color: white;
+font-weight: bolder;
+font-size: large;
+}
+
+#name{
+  position: absolute;
+top: 1360px;
+left: 500px;
+font-size: 19px;
+border-radius: 5px;
+cursor: pointer;
+}
+
+#email{
+  position: absolute;
+  top: 1420px;
+  left: 500px;
+  font-size: 19px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#botao{
+  position: absolute;
+  top: 1500px;
+  left: 560px;
+  font-size: 19px;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #C07212;
+  color: white;
+}
